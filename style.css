@@ -36,6 +36,7 @@ body {
   .py-2 {
     padding-top: 8px;
     padding-bottom: 8px;
+    color: red;
   }
   
   .text-lg {
